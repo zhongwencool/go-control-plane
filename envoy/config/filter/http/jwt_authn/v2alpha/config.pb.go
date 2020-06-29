@@ -8,7 +8,7 @@ package envoy_extensions_filters_http_jwt_authn_author_v3
 
 import (
 	v3 "github.com/envoyproxy/go-control-plane/envoy/config/core/v3"
-	v32 "github.com/zhongwencool/go-control-plane/envoy/config/etcd/v3"
+	v32 "github.com/envoyproxy/go-control-plane/envoy/config/etcd/v3"
 	v31 "github.com/envoyproxy/go-control-plane/envoy/config/route/v3"
         _ "github.com/cncf/udpa/go/udpa/annotations"
         _ "github.com/envoyproxy/protoc-gen-validate/validate"
